@@ -1,9 +1,16 @@
 * {
   background-color: rgb(205, 201, 207);
-};
+}
 
 h1 {
   font-family: 'Times New Roman', Times, serif;
   font-size: 60px;
   text-align: center;
-};
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 33px;
+  text-align: center;
+  padding: 60px;
+}
